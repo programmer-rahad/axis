@@ -1,0 +1,1150 @@
+@media only screen and (min-width: 992px) {
+  .common-block-1.diff-1 {
+    max-width: 100%;
+  }
+  .portfolio .row {
+    margin-bottom: 1.5rem;
+  }
+  .contact-middle .contact-left {
+    max-width: 520px;
+  }
+  .contact-middle .contact-right div:first-child {
+    max-width: 515px;
+    margin-left: auto;
+  }
+  .blog-filter div:first-child {
+    margin-right: 23.5rem;
+  }
+  .blog-content .blog-filter > div:first-child {
+    margin-right: 23.5rem;
+  }
+  .oc-content {
+    clip-path: polygon(0 7%, 100% 0, 100% 100%, 0% 100%);
+  }
+  .shoot-section.about-shoot {
+    padding-bottom: 16rem;
+  }
+  .shoot-section.about-shoot .shoot-img .shoot-shape {
+    left: -13rem;
+  }
+}
+@media (min-width: 1200px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1140px;
+  }
+  .meet-the-crew .container {
+    padding-top: 11rem;
+  }
+  .shoot-section.about-shoot {
+    padding-top: 22rem;
+    padding-bottom: 26rem;
+  }
+}
+
+@media only screen and (max-width: 2200px) {
+  .meet-the-crew .title {
+    left: 3%;
+  }
+}
+@media only screen and (max-width: 1800px) {
+  .meet-the-crew .title {
+    left: 0;
+  }
+}
+@media only screen and (max-width: 1700px) {
+  .meet-the-crew .title {
+    left: -5%;
+    min-height: 30rem;
+  }
+  .meet-the-crew .title p:first-child {
+    font-size: 5rem;
+  }
+  .meet-the-crew .title p:last-child {
+    font-size: 10rem;
+  }
+}
+@media only screen and (max-width: 1599px) {
+  .team-section .team-title {
+    max-width: 70rem;
+  }
+}
+@media only screen and (max-width: 1500px) {
+  .meet-the-crew .title {
+    left: -10%;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .big-title {
+    font-size: 13rem;
+  }
+}
+@media only screen and (max-width: 1399px) {
+  :root {
+    --size-5xl: 6rem;
+    --size-3xl: 3rem;
+    --size-2xl: 3rem;
+  }
+
+  .main-menu.open-main-menu::before {
+    width: 220%;
+  }
+  .hero-section {
+    padding-top: 30rem;
+  }
+  .hero-section .header-logo .header-logo-img {
+    max-width: 25rem;
+  }
+
+  .btn-groug .single-btn-groug {
+    padding: 2rem 3rem;
+  }
+  .parallax1-section {
+    padding-top: 65rem;
+    padding-bottom: 35rem;
+  }
+  .parallax-white {
+    left: 0rem;
+  }
+  .team-section .team-title {
+    max-width: 51rem;
+  }
+  .project-1 {
+    margin-bottom: 0;
+  }
+
+  .gap-96 {
+    gap: 0;
+  }
+
+  .carouselTicker .row {
+    flex-wrap: nowrap;
+  }
+  .project-5 {
+    margin-bottom: 0;
+  }
+
+  .styled-project {
+    padding-right: 100px;
+  }
+  .carouselTicker__item {
+    width: max-content;
+  }
+  .carouselTicker__item {
+    margin: 0;
+  }
+  .carouselTicker .row.gap-96 > .col {
+    flex: 0 0 auto;
+    width: auto;
+  }
+  .not-found {
+    padding-top: 38rem !important;
+  }
+  .meet-the-crew .title {
+    left: -15%;
+  }
+}
+
+@media only screen and (max-width: 1199px) {
+  .team-wrapper {
+    max-width: 100%;
+  }
+  .rotate-btn img {
+    max-width: 20rem;
+  }
+  .main-menu {
+    right: 30rem;
+  }
+
+  .main-menu.open-main-menu::before {
+    width: 500%;
+  }
+  .hero-section .hero-img {
+    right: -2rem;
+  }
+  .testimonial-section {
+    min-height: 80rem;
+    margin-top: -15rem;
+  }
+  .testimonial .testimonial-qoute {
+    margin-top: -24rem;
+  }
+  .team-section {
+    margin-top: 0;
+    padding-top: 8rem;
+  }
+  .team-section .team-title {
+    position: static;
+    transform: translateY(0%) rotate(0deg);
+    margin-bottom: 8rem;
+    padding: 4rem;
+  }
+  .shoot-content .shoot-img {
+    max-width: 46.3rem;
+    right: -34%;
+  }
+  .shoot-content .shoot-img .shoot-shape {
+    top: -6.3rem;
+    max-width: 25rem;
+  }
+  .shoot-content .shoot-img .shoot-btn {
+    right: -7.5rem;
+    bottom: -8rem;
+  }
+  .footer .footer-row {
+    gap: 4rem 5rem;
+  }
+  .main-menu {
+    width: 90vw;
+  }
+  .main-menu::before {
+    left: 59.4%;
+  }
+  .service-overview.two {
+    padding-bottom: 18rem;
+  }
+  .service-overview.project-scope {
+    padding-bottom: 12rem;
+  }
+  .big-title {
+    font-size: 10rem;
+    white-space: inherit;
+    line-height: 0.95;
+  }
+
+  .swiper-slider-wrapper .swiper-2 .swiper-button-prev,
+  .swiper-slider-wrapper .swiper-2 .swiper-button-next {
+    width: 60px;
+    height: 60px;
+  }
+  .swiper-slider-wrapper .swiper-2 .swiper-button-next:after,
+  .swiper-slider-wrapper .swiper-2 .swiper-button-prev:after {
+    font-size: 2.5rem;
+  }
+  .swiper-slider-wrapper .swiper-2 .swiper-button-prev {
+    transform: translateX(calc(-50% - 40px));
+  }
+  .swiper-slider-wrapper .swiper-2 .swiper-button-next {
+    transform: translateX(calc(-50% + 40px));
+  }
+  .not-found .parallax-not-found {
+    top: -11rem;
+  }
+  .not-found {
+    padding-top: 32rem !important;
+  }
+  .contact-middle {
+    padding-bottom: 20rem;
+  }
+  .shoot-section.got-question .shoot-shape {
+    max-width: 45rem !important;
+    left: 3rem !important;
+  }
+  .swiper-slider-wrapper .swiper-2 .swiper-button-prev,
+  .swiper-slider-wrapper .swiper-2 .swiper-button-next {
+    bottom: -10px;
+  }
+  .swiper-slider-wrapper .swiper-2 .swiper-pagination-bullets {
+    bottom: -50px;
+  }
+  .project-scope .back-portfolio {
+    margin-bottom: 10rem;
+  }
+  .shoot-section.about-shoot {
+    padding-top: 14rem;
+  }
+  .meet-the-crew .container {
+    transform: scale(0.8);
+    transform-origin: 40% 50%;
+  }
+  .meet-the-crew .red-button {
+    top: 47.5rem;
+  }
+  .meet-the-crew .title {
+    left: -23%;
+    min-height: 26rem;
+    top: 35rem;
+  }
+  .about-faq {
+    margin-top: 3rem;
+    padding-top: 10rem;
+  }
+}
+@media only screen and (max-width: 1150px) {
+  .meet-the-crew .title {
+    position: relative;
+    transform: translateY(-35rem);
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+    justify-content: center;
+    background-color: #fff;
+    margin-bottom: -6rem;
+  }
+  .meet-the-crew .title::before {
+    display: none;
+  }
+  .meet-the-crew .title p:first-child {
+    font-size: 4rem;
+  }
+  .meet-the-crew .title p:last-child {
+    font-size: 8rem;
+    color: var(--text-color6);
+  }
+}
+@media only screen and (max-width: 991px) {
+  :root {
+    --size-6xl: 7rem;
+    --size-5xl: 5rem;
+    /* --size-3xl2: 4rem; */
+    --size-3xl: 2.5rem;
+    --size-xl: 2.5rem;
+  }
+  .main-menu::before {
+    left: 56.7%;
+  }
+  .arrow-btn {
+    max-width: 10rem;
+    min-height: 6rem;
+  }
+  .main-menu {
+    right: 12rem;
+  }
+
+  .hero-section .hero-img {
+    right: -20rem;
+  }
+  .btn-groug .single-btn-groug {
+    padding: 1.6rem 2.5rem;
+  }
+  .parallax1-section {
+    padding-top: 60rem;
+    padding-bottom: 27rem;
+  }
+  .parallax1-middle-content {
+    margin-top: 15rem;
+    margin-bottom: 15rem;
+    padding-right: 0;
+  }
+  .testimonial-section {
+    min-height: 70rem;
+  }
+  .testimonial .testimonial-qoute {
+    margin-top: -18rem;
+    margin-right: 3rem;
+    max-width: 8rem;
+  }
+  .shoot-content .shoot-img {
+    margin-top: 10rem;
+    position: static;
+    transform: translateY(0%);
+    margin-left: 3rem;
+  }
+  .shoot-content .shoot-img .shoot-shape {
+    top: -4.3rem;
+    max-width: 18rem;
+    left: -5rem;
+  }
+  .footer .footer-row {
+    gap: 4rem 4rem;
+  }
+  .text-content-right {
+    padding: 0;
+    border: none;
+  }
+  .carouselTicker__list {
+    padding: 20rem 0 10rem 0;
+  }
+  .styled-project {
+    padding-right: 50px;
+  }
+  .common-block-1 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3.2rem;
+    max-width: 600px;
+  }
+  .service-overview {
+    padding-bottom: 9rem;
+  }
+  .service-overview .right {
+    max-width: 60rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .services-hero .service-title {
+    max-width: 70rem;
+  }
+  .services-hero .service-title h3 {
+    margin-bottom: -1.2rem;
+  }
+  .services {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    clip-path: polygon(0 3%, 100% 0, 100% 97%, 0% 100%);
+  }
+  .services .row:not(:last-child) {
+    margin-bottom: 6rem;
+  }
+  .services.others {
+    padding-top: 8.5rem;
+    padding-bottom: 8.5rem;
+  }
+  .btn-group-section.two .single-btn-groug {
+    font-size: 1.6rem;
+    padding: 0.44rem 1.55rem;
+  }
+  .swiper-pagination-bullets {
+    display: block;
+  }
+  .swiper-slider-wrapper .swiper-pagination-bullets {
+    display: block;
+  }
+  .service-overview.two {
+    padding-bottom: 17rem;
+  }
+  .service-overview.project-scope {
+    padding-bottom: 12rem;
+  }
+  .portfolio [class*='col-'] {
+    margin-bottom: 1.5rem;
+  }
+  .big-title {
+    font-size: 8.5rem;
+  }
+  .thank-you {
+    padding-top: 23rem !important;
+    padding-bottom: 12rem;
+  }
+  .thank-you h2 {
+    font-size: 9rem;
+  }
+  .not-found .parallax-not-found {
+    top: -18rem;
+  }
+  .contact-middle {
+    padding-bottom: 16rem;
+  }
+  .shoot-section.got-question .shoot-content h2 {
+    margin-top: -6rem;
+    margin-bottom: 20rem;
+  }
+  .blog-content .blog-filter {
+    margin-bottom: 7rem;
+  }
+  .dc-tabs .dc-right {
+    margin-bottom: 11rem;
+    margin-right: auto;
+    margin-top: 4rem;
+  }
+  .oc-content {
+    padding-bottom: 8rem;
+    clip-path: polygon(0 3%, 100% 0, 100% 100%, 0% 100%);
+  }
+
+  .market-images img.one {
+    max-width: 62rem;
+    top: -9rem;
+    left: 4rem;
+  }
+  .market-images img.two {
+    max-width: 36.6rem;
+    bottom: -8rem;
+    left: 2rem;
+  }
+  .market-images img.three {
+    max-width: 45rem;
+    right: 0px;
+    bottom: 0rem;
+  }
+  .project-scope .back-portfolio {
+    margin-bottom: 7rem;
+  }
+  .more-projects {
+    padding-top: 1rem;
+    padding-bottom: 8rem;
+  }
+  .retail-f-slider {
+    clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
+    background: #fff !important;
+  }
+  .shoot-section.about-shoot {
+    padding-top: 13rem;
+    margin-top: -6rem;
+  }
+  .meet-the-crew .container {
+    transform: scale(0.7) translateY(-4rem);
+    transform-origin: 36% 50%;
+  }
+  .meet-the-crew .title {
+    margin-bottom: -7.5rem;
+    padding-left: 1.4rem;
+  }
+  .about-faq {
+    margin-top: -7rem;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .meet-the-crew .container {
+    transform: scale(0.7) translateY(-4rem);
+    transform-origin: 28.5% 50%;
+  }
+}
+@media only screen and (max-width: 890px) {
+  .meet-the-crew .container {
+    transform: scale(0.6) translateY(-12rem);
+    transform-origin: 25% 50%;
+  }
+  .shoot-section.about-shoot {
+    margin-top: -15rem;
+  }
+  .about-faq {
+    margin-top: -17rem;
+  }
+  .shoot-section.about-shoot {
+    padding-top: 22rem;
+  }
+}
+@media only screen and (max-width: 820px) {
+  .meet-the-crew .container {
+    transform: scale(0.55) translateY(-12rem);
+    transform-origin: 22% 50%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  :root {
+    --size-6xl: 5rem;
+    --size-5xl: 4rem;
+    --size-4xl: 2.5em;
+    --size-3xl: 2rem;
+    --size-2xl: 2.5rem;
+    --size-xl: 2rem;
+    --size-lg: 2rem;
+  }
+  .main-menu::before {
+    left: 50.7%;
+  }
+  .section-y-space {
+    padding: 8rem 0;
+  }
+  .section-t-space {
+    padding-top: 8rem;
+  }
+  .section-b-space {
+    padding-bottom: 8rem;
+  }
+  .text-wrapper .text-content-wrapper {
+    padding: 5rem 0;
+  }
+  .main-menu {
+    right: -20rem;
+  }
+  .hero-section {
+    padding-top: 20rem;
+  }
+  .hero-section .header-logo .header-logo-img {
+    max-width: 25rem;
+  }
+  .btn-group-section {
+    padding: 8rem 0 22rem;
+  }
+  .btn-group-section.two {
+    padding-bottom: 10.5rem;
+  }
+  .btn-groug {
+    gap: 2rem;
+  }
+  .btn-groug .single-btn-groug {
+    padding: 1.2rem 2rem;
+  }
+  .parallax1-section {
+    padding-top: 43rem;
+    padding-bottom: 25rem;
+  }
+  .parallax1-top-content {
+    max-width: 100%;
+    margin-left: 0;
+  }
+  .parallax1-middle-content {
+    max-width: 100%;
+    margin-left: 0;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+  }
+  .parallax1-bottom-content {
+    max-width: 100%;
+    margin-left: 0;
+  }
+  .parallax-blue {
+    left: 3rem;
+  }
+  .parallax-body {
+    left: -10rem;
+  }
+  .testimonial-section {
+    min-height: 55rem;
+    margin-top: -11rem;
+  }
+  .testimonial .testimonial-qoute {
+    margin-top: -14.4rem;
+    margin-right: 2rem;
+    max-width: 6rem;
+  }
+  .shoot-section {
+    padding-top: 8rem;
+  }
+  .carouselTicker__list {
+    padding: 10rem 0;
+  }
+  .services-hero .service-title-wrapper {
+    background-image: url('../images/services/hero-mobile-shape.png');
+    background-size: 100% 100%;
+  }
+  .services-hero {
+    padding-top: 37rem;
+  }
+  .services-hero .service-title {
+    max-width: 100%;
+    background: none;
+    min-height: 30.5rem;
+  }
+  .hero-section .header-logo {
+    padding-top: 5rem;
+  }
+  .services-hero .header-logo {
+    /* padding-top: 10.5rem; */
+  }
+  .service-overview {
+    padding-top: 18rem;
+  }
+  .services-middle {
+    min-height: 56.5rem;
+  }
+  .swiper-slider {
+    background-color: var(--bg-color4);
+  }
+  .swiper-slider-wrapper {
+    max-width: calc(100% - 10rem);
+    /* padding-bottom: 3rem; */
+  }
+  .whats-next {
+    margin-top: -4rem;
+    background-color: var(--bg-color4);
+    padding-bottom: 9rem;
+  }
+  .whats-next h2 {
+    font-size: 4rem;
+  }
+  .whats-next h2 img {
+    max-width: 1.7rem;
+    margin-left: 1.2rem;
+    transform: translateY(4px);
+  }
+  .big-title {
+    font-size: 8rem;
+  }
+  .whats-next.two {
+    padding-top: 9rem;
+  }
+  .service-overview.project-scope {
+    padding-bottom: 10rem;
+  }
+  .not-found {
+    padding-top: 17rem !important;
+  }
+  .not-found .parallax-not-found {
+    top: -30rem;
+  }
+  .not-found img.nf-img {
+    margin-bottom: 14rem;
+  }
+  .service-title.contact-title {
+    min-height: 22rem;
+    padding-left: 5rem;
+  }
+  .contact-middle {
+    padding-top: 17rem;
+    padding-bottom: 12rem;
+  }
+  .shoot-section.got-question .shoot-content h2 {
+    padding-top: 8rem;
+  }
+  .blog-content {
+    padding-top: 0rem;
+    margin-top: -1rem;
+  }
+  .blog-content h2 {
+    margin-bottom: 5rem;
+  }
+  .job-posting-api {
+    padding-top: 19rem;
+  }
+
+  .hero-section.hero-dean-collins {
+    padding-top: 25rem;
+  }
+  .hero-dean-collins .container.first {
+    margin-top: -6rem;
+  }
+  .services-hero.hero-dean-collins .service-title h3 {
+    margin-bottom: 0;
+    margin-top: -4rem;
+  }
+  .services-hero.hero-dean-collins .service-title {
+    min-height: 20rem;
+  }
+  .team-members .team-member {
+    transform: rotate(-4deg);
+    max-width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .team-members {
+    padding-bottom: 6rem;
+  }
+  .market-images img.one {
+    max-width: 50rem;
+    top: -5rem;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .market-images img.two {
+    max-width: 32rem;
+    bottom: -4rem;
+    left: 2rem;
+  }
+  .market-images img.three {
+    right: 6.4rem;
+    max-width: 37rem;
+    bottom: 5rem;
+  }
+  .project-scope .back-portfolio {
+    margin-bottom: 5.5rem;
+  }
+  .more-projects {
+    padding-bottom: 6rem;
+  }
+  .services-middle {
+    clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
+  }
+  .shoot-section.about-shoot {
+    /* padding-top: 0rem; */
+  }
+  .meet-the-crew .img-1 {
+    width: 635px;
+  }
+  .meet-the-crew .img-3 {
+    margin-top: -6rem;
+  }
+  .meet-the-crew .red-button {
+    top: 47rem;
+    right: 2.9rem;
+    width: 227px;
+  }
+  .meet-the-crew .container {
+    transform: scale(0.5) translateY(-23rem);
+    transform-origin: 21% 50%;
+  }
+  .shoot-section.about-shoot {
+    margin-top: -23rem;
+    padding-bottom: 14rem;
+  }
+  .about-faq {
+    margin-top: -25rem;
+    padding-top: 7.5rem;
+  }
+  .shoot-section.about-shoot {
+    padding-top: 30rem;
+  }
+  .custom-accordion .accordion__item .accordion__title {
+    padding-left: 3rem;
+    padding-right: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  .custom-accordion .accordion__item .accordion__content > div {
+    padding: 2rem;
+    padding-left: 3rem;
+  }
+}
+
+@media only screen and (max-width: 730px) {
+  .services-hero .service-title {
+    padding-left: 0.5rem;
+  }
+  .meet-the-crew .container {
+    transform: scale(0.48) translateY(-23rem);
+    transform-origin: 18% 50%;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .meet-the-crew .container {
+    transform: scale(0.45) translateY(-34rem);
+    transform-origin: 16% 50%;
+  }
+  .shoot-section.about-shoot {
+    margin-top: -30rem;
+  }
+  .about-faq {
+    margin-top: -32rem;
+  }
+  .shoot-section.about-shoot {
+    padding-top: 36rem;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .meet-the-crew .container {
+    transform: scale(0.45) translateY(-34rem);
+    transform-origin: 14% 50%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .meet-the-crew .container {
+    transform: scale(0.45) translateY(-34rem);
+    transform-origin: 11% 50%;
+  }
+}
+@media only screen and (min-width: 576px) {
+  .whats-next.three h2 img {
+    max-width: 1.3rem;
+    transform: translateY(2px);
+  }
+}
+@media only screen and (max-width: 575px) {
+  :root {
+    --size-5xl: 3.5rem;
+    --size-4xl: 2em;
+    --size-xl3: 3.2rem;
+    --size-md2: 1.6rem;
+  }
+  .main-menu::before {
+    left: 40.7%;
+  }
+  .rotate-btn img {
+    max-width: 17rem;
+  }
+  .parallax1-section {
+    padding-top: 50rem;
+    padding-bottom: 25rem;
+  }
+  .parallax1-middle-content {
+    max-width: 100%;
+    margin-left: 0;
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+  }
+  .parallax-blue {
+    left: 2rem;
+  }
+  .testimonial-section {
+    min-height: 60rem;
+  }
+  .testimonial .testimonial-qoute {
+    margin-top: -2rem;
+    margin-right: 0rem;
+  }
+  .testimonial .testimonial-desc {
+    margin-top: -1.5rem;
+    margin-left: 7rem;
+  }
+  .shoot-content .shoot-img {
+    margin-left: 1rem;
+  }
+  .shoot-content .shoot-img .shoot-shape {
+    top: -5.3rem;
+    left: -2rem;
+  }
+  .shoot-content .shoot-img .shoot-btn {
+    position: static;
+  }
+  .hero-section .container {
+    padding-left: 2.5rem;
+  }
+  .common-block-1 h3 {
+    margin-bottom: 1rem;
+  }
+  .service-overview {
+    padding-top: 16.5rem;
+  }
+  .services {
+    padding-top: 7rem;
+    padding-bottom: 13rem;
+    clip-path: polygon(0 0%, 100% 0, 100% 98%, 0% 100%);
+  }
+  .whats-next h3 {
+    font-size: 2rem;
+  }
+  .whats-next h2 {
+    font-size: 2.5rem;
+  }
+  .whats-next h2 img {
+    max-width: 0.9rem;
+    margin-left: 1rem;
+    transform: translateY(1px);
+  }
+  .whats-next.two {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+  .portfolio-filter {
+    padding-top: 17rem;
+  }
+  .portfolio-title {
+    min-height: 23.5rem !important;
+  }
+  .thank-you h2 {
+    font-size: 8rem;
+    line-height: 1;
+    padding-bottom: 2rem;
+  }
+  a.red-button {
+    font-size: 1.7rem;
+    color: var(--text-color3);
+    background-color: var(--bg-color3);
+    padding: 13px 28px;
+  }
+  .contact-middle .contact-right > div:last-child {
+    padding: 3.5rem;
+    padding-bottom: 5rem;
+  }
+  .contact-middle .contact-right > div:first-child {
+    padding: 3.5rem;
+    padding-bottom: 5rem;
+  }
+  .service-title.contact-title h2 {
+    font-size: 4.8rem;
+  }
+  .contact-middle {
+    padding-bottom: 10rem;
+  }
+  .shoot-section.got-question .shoot-shape {
+    max-width: 35rem !important;
+  }
+  .job-posting-api {
+    padding-top: 18rem;
+  }
+  .services-hero.hero-dean-collins .service-title h2 {
+    font-size: 4.3rem;
+  }
+  .services-hero.hero-dean-collins .service-title h3 {
+    font-size: 3rem;
+  }
+  .oc-content {
+    clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+    padding-bottom: 6rem;
+  }
+  .market-images {
+    margin-bottom: 8rem;
+  }
+  .market-images img.three {
+    right: 4rem;
+    max-width: 27rem;
+    bottom: 16rem;
+  }
+  .market-images img.one {
+    max-width: 40rem;
+  }
+  .market-images img.two {
+    max-width: 28rem;
+    bottom: 8rem;
+    left: 1rem;
+  }
+  .retail-f-slider {
+    clip-path: polygon(0 3%, 100% 0, 100% 100%, 0% 100%);
+  }
+  .service-overview.project-scope {
+    padding-bottom: 8rem;
+  }
+  .meet-the-crew .container {
+    transform: scale(0.4) translateY(-47rem);
+    transform-origin: 11% 50%;
+  }
+  .meet-the-crew .img-2 {
+    transform: translateX(-30px);
+  }
+  .meet-the-crew .red-button {
+    right: 4rem;
+    width: 216px;
+  }
+  .meet-the-crew .title {
+    padding-right: 0;
+  }
+  .meet-the-crew .title p:first-child {
+    font-size: 3.2rem;
+  }
+  .meet-the-crew .title p:last-child {
+    font-size: 7rem;
+  }
+  .shoot-section.about-shoot {
+    margin-top: -36rem;
+  }
+  .shoot-section.about-shoot .rotate-btn {
+    margin-left: 2rem;
+    margin-top: 4rem;
+  }
+  .shoot-section.about-shoot {
+    padding-bottom: 9rem;
+  }
+  .about-faq {
+    margin-top: -37rem;
+  }
+  .shoot-section.about-shoot {
+    padding-top: 42rem;
+  }
+}
+@media only screen and (max-width: 530px) {
+  .meet-the-crew .container {
+    transform-origin: 8.2% 50%;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .meet-the-crew .container {
+    transform-origin: 9.2% 50%;
+    transform: scale(0.36) translateY(-57rem);
+  }
+  .shoot-section.about-shoot {
+    margin-top: -40rem;
+  }
+  .about-faq {
+    margin-top: -40rem;
+  }
+  .shoot-section.about-shoot {
+    padding-top: 47rem;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .meet-the-crew .container {
+    transform-origin: 8% 50%;
+    transform: scale(0.34) translateY(-63rem);
+  }
+}
+@media only screen and (max-width: 450px) {
+  .meet-the-crew .container {
+    transform-origin: 8% 50%;
+    transform: scale(0.32) translateY(-73rem);
+  }
+  .shoot-section.about-shoot {
+    margin-top: -44rem;
+  }
+  .about-faq {
+    margin-top: -45rem;
+  }
+  .shoot-section.about-shoot {
+    padding-top: 51rem;
+  }
+}
+@media only screen and (max-width: 425px) {
+  :root {
+    --size-5xl: 3rem;
+  }
+  .main-menu {
+    right: -25rem;
+  }
+  .main-menu::before {
+    left: 35.7%;
+  }
+  .hero-section {
+    padding-top: 15rem;
+  }
+  .hero-section .container {
+    padding-left: 2rem;
+  }
+  .hero-section .header-logo .header-logo-img {
+    max-width: 18rem;
+  }
+  .footer .footer-content .tow-page-wrapper {
+    flex-direction: column !important;
+  }
+  .footer .footer-content .tow-page-wrapper .footer-list:not(:last-child) {
+    margin-bottom: 1.5rem;
+  }
+  .services-hero {
+    padding-top: 27.35rem;
+  }
+  /* .services {
+    padding-bottom: 8rem;
+    clip-path: polygon(0 0%, 100% 0, 100% 99%, 0% 100%);
+  } */
+  .whats-next h3 {
+    font-size: 1.4rem;
+  }
+  .whats-next h2 {
+    font-size: 1.8rem;
+  }
+  .swiper-slider-wrapper h4 {
+    margin-bottom: -0.2rem;
+  }
+  .swiper-slider-wrapper .primary-bg {
+    padding: 1.15rem 2rem;
+  }
+  .project-scope .right {
+    padding: 3rem;
+    padding-top: 7rem;
+    padding-bottom: 4rem;
+  }
+  .red-button {
+    padding: 10px 30px;
+  }
+  .team-members .team-member {
+    transform: rotate(-3deg);
+    max-width: 320px;
+  }
+  .oc-content {
+    clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+  }
+  .market-images img.one {
+    max-width: 40rem;
+    width: calc(100% - 20px);
+  }
+  .market-images img.three {
+    right: 3rem;
+    max-width: 23rem;
+    bottom: 22rem;
+  }
+  .market-images img.two {
+    max-width: 23rem;
+    bottom: 13rem;
+    left: 1rem;
+  }
+  .btn-groug.three .single-btn-groug {
+    line-height: 1.7;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+  }
+  .meet-the-crew .container {
+    transform-origin: 7.5% 50%;
+    transform: scale(0.3) translateY(-79rem);
+  }
+}
+@media only screen and (max-width: 400px) {
+  .meet-the-crew .container {
+    transform-origin: 6% 50%;
+    /* transform: scale(0.30) translateY(-79rem); */
+  }
+}
+@media only screen and (max-width: 375px) {
+  .testimonial .testimonial-qoute {
+    margin-top: -2rem;
+    max-width: 5rem;
+  }
+  .meet-the-crew .container {
+    transform-origin: 2.5% 50%;
+    transform: scale(0.32) translateY(-77rem);
+  }
+}
+@media only screen and (max-width: 374px) {
+  .main-menu {
+    right: -30rem;
+  }
+  .main-menu::before {
+    left: 28%;
+  }
+}
